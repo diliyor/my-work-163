@@ -1,0 +1,10 @@
+.q1 {
+    border: 17px solid blue;
+    width: 90px;
+}
+.q2 {
+    border: 10px solid orange;
+}
+.q3 {
+    border: 15px dashed green;
+}
